@@ -33,57 +33,7 @@ namespace Caculator.UIConsole
 
             }
 
-            Console.ReadLine();
-
-
-
-
-
-            //Console.WriteLine("Calculatrice");
-            //string pattern = @"^\-?[0-9](([-+/*][0-9]+)?([.,][0-9]+)?)*?$";
-            //Regex rg = new Regex(pattern);
-            //bool test = rg.IsMatch("1+2");
-            //List<string> vals = new List<string>
-            //{
-            //    "(2+5)*3",
-            //    "1+1",
-            //    "1 + 2",
-            //    "1 + -1",
-            //    "-1 - -1",
-            //    "5-4",
-            //    "5*2",
-            //    "(2+5)*3",
-            //    "10/2",
-            //    "2+2*5+5",
-            //    "2.8*3-1",
-            //    "2^8",
-            //    //"2^8*5-1",
-            //    //"sqrt(4)",
-            //    "1/0"
-            //};
-
-
-
-            //ICalculatorService calculatorService = new CalculateService();
-            //foreach(string val in vals)
-            //{
-            //    try
-            //    {
-            //        var mathematicalExpression = calculatorService.ConvertStringToMathematicalExpression(val);
-            //        var result = calculatorService.Calculate(mathematicalExpression);
-            //        Console.WriteLine($"{val} = {result}");
-            //    }
-            //    catch(DivideByZeroException ex)
-            //    {
-            //        Console.WriteLine($"{val} = {ex.Message}");
-            //    }
-            //    catch(Exception ex)
-            //    {
-
-            //    }
-
-            //}
-            //Console.ReadLine(); 
+            Console.ReadLine(); 
         }
     }
 }
