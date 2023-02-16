@@ -1,6 +1,6 @@
 # Calculator
 
-Application qui évalue une chaîne de caractères, comme si elle avait été entrée dans une calculatrice. Votre programme doit accepter une entrée et produire une réponse juste en sortie.
+Application qui évalue une chaîne de caractères, comme si elle avait été entrée dans une calculatrice. Le programme accepte en entrée une expression mathématique, l'évalue et produire le resultat en sortie.
 
 # Projects
 
